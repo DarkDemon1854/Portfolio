@@ -2,7 +2,7 @@
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
 import Button from "@mui/material/Button";
-import profilePic from "../assets/Raj_lc.webp";
+import profilePic from "../assets/Raj_lc.jpg";
 import { FaDownload } from "react-icons/fa";
 import resume from "../assets/Raj_Resume.pdf";
 import { Spotlight } from "./Spotlight.jsx";
