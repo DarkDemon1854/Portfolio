@@ -8,6 +8,7 @@ import {
   SiSqlite,
   SiTailwindcss,
 } from "react-icons/si";
+import { SiHeroku, SiDocker, SiGithub } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { motion } from "framer-motion";
@@ -120,6 +121,35 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <SiPython className="text-7xl text-yellow-400" />
+        </motion.div>
+
+        <motion.div
+          variants={iconVariants(3)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiHeroku className="text-7xl text-purple-500" />
+        </motion.div>
+
+
+        <motion.div
+          variants={iconVariants(2.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiDocker className="text-7xl text-blue-400" />
+        </motion.div>
+
+
+        <motion.div
+          variants={iconVariants(1.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiGithub className="text-7xl text-gray-400" />
         </motion.div>
       </motion.div>
     </div>
