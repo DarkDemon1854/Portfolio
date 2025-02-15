@@ -10,7 +10,7 @@ import  './index.css';
 export const HERO_CONTENT = `
 I am a Computer Science Engineering student at BIT Mesra, currently holding a <span className='italic text-xl text-gradient'>Newbie rank on Codeforces (Max Rating: 900)</span>. 
 
-In addition to competitive programming, I excel in full-stack web development, specializing in  <span className='italic text-bold text-gradient'> Next.js, React.js,  and databases like MongoDB and MySQL</span>. 
+In addition to competitive programming, I excel in full-stack web development, specializing in  <span className='italic text-bold text-gradient'> Next.js, React.js, and databases like MongoDB and MySQL</span>. 
 I have developed scalable solutions, improving user experiences and system performance. 
 <br><br>
 `;
@@ -49,42 +49,44 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Blog",
+    title: "NoName",
     image: project1,
     description:
-      "Developed a full-stack blogging platform with Appwrite backend, featuring rich text editing via TinyMCE, real-time comments, and robust authentication. Implemented category-based post organization, social sharing, and advanced search functionality. Optimized for performance with responsive design and efficient data handling.",
+      "Developed a powerful Telegram-based mirror and leech bot with advanced file management capabilities and MongoDB integration for user data storage. Supports downloading from torrents, direct links, and streaming sites using ARIA2C, YT-DLP, and various scraping techniques. Integrated Google Drive, MEGA, and Rclone for seamless cloud storage management. Features a hash and direct download link generator, RSS feed support, customizable user and bot settings, and a suite of miscellaneous audio tools. Implements bypass mechanisms for protected links and supports multiple URL shortener services. Designed for flexible deployment on Heroku, VPS, and Docker, leveraging Python and Flask for a scalable and high-performance backend.",
     technologies: [
-      "React",
-      "Appwrite",
-      "TinyMCE",
-      "Tailwind",
+      "Python",
       "HTML",
-      "Javascript",
-      "Node.js",
+      "JavaScript",
+      "Telegram API(Pyrogram)",
+      "Flask",
+      "Dockerfile",
+      "MongoDB",
     ],
-    demoLink: "https://blog-omega-ten-79.vercel.app/",
-    githubLink: "https://github.com/Ankitsinghsisodya/Blog",
+    demoLink: "https://minato98-3f97e3e22de1.herokuapp.com/",
+    githubLink: "https://github.com/SonGoku1972/NoName",
   },
   {
-    title: "Sangeet",
+    title: "Stream",
     image: project2,
     description: 
-      "Developed a streamlined web-based music player focused on Bhajans, featuring dynamic playlist management, responsive audio controls, and an intuitive user interface. Implemented custom audio controls, real-time progress tracking, and smooth transitions with gradient backgrounds. Built with modern web technologies for optimal performance.",
+      "Developed a dynamic web-based movie streaming platform that fetches films from a Telegram channel, leveraging The Movie Database (TMDb) API for enriched metadata, including posters, thumbnails, and detailed movie information. Enabled seamless online streaming alongside playback options via MX Player and VLC, with a direct file download feature. Designed an intuitive user interface with smooth navigation, optimized video performance, and real-time content updates.",
     technologies: [
+      "Python",
       "HTML",
-      "Tailwind CSS",
       "JavaScript",
-      "Web Audio API",
+      "TMDb API",
+      "Telegram API(Pyrogram)",
+      "Dockerfile",
       "LocalStorage",
-      "JSON"
+      "MongoDB",
     ],
-    demoLink: "https://sangeet-hazel.vercel.app/",
-    githubLink: "https://github.com/Ankitsinghsisodya/Sangeet"
+    demoLink: "https://surftg98-4cb82bc93e8f.herokuapp.com/",
+    githubLink: "https://github.com/SonGoku1972/Stream"
   },
 ];
 
 export const CONTACT = {
-  address: "Munger, Bihar, India ",
+  address: "Ranchi, Jharkhand, India ",
   phoneNo: "+91 9508943068 ",
   email: "rajshreer80@gmail.com",
 };
