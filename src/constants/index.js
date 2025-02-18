@@ -80,7 +80,7 @@ export const PROJECTS = [
       "LocalStorage",
       "MongoDB",
     ],
-    demoLink: "https://surftg98-4cb82bc93e8f.herokuapp.com/",
+    demoLink: "https://convinced-manya-nopemkmlm-e3a7583c.koyeb.app/",
     githubLink: "https://github.com/SonGoku1972/Stream"
   },
 ];
