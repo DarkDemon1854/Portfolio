@@ -2,7 +2,7 @@ import logo from "../assets/logo.jpg";
 import React from 'react';
 import { FaLinkedin, FaPhoneAlt } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { SiGmail, SiLeetcode, SiCodeforces } from "react-icons/si";
+import { SiGmail, SiLeetcode, SiCodeforces, SiCodechef } from "react-icons/si";
 
 
 const Navbar = () => {
@@ -19,6 +19,9 @@ const Navbar = () => {
         </a>
         <a href="https://codeforces.com/profile/SonGoku2403" target="_blank">
           <SiCodeforces />
+        </a>
+        <a href="https://www.codechef.com/users/songoku2403" target="_blank">
+          <SiCodechef />
         </a>
         <a href="https://leetcode.com/u/SonGoku2403/" target="_blank">
           <SiLeetcode />
