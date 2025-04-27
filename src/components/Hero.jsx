@@ -22,7 +22,9 @@ const container = (delay) => ({
 
 const Hero = () => {
   const words = [
-    "Pupil at Codeforces",
+    "Specialist at Codeforces",
+    "4 Star at Codechef",
+    "Open Source Contributor",
     "Competitive Programmer",
     "Full Stack Developer",
     "Software Engineer"
