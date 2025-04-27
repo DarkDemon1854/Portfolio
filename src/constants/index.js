@@ -8,9 +8,9 @@ import  './index.css';
 
 
 export const HERO_CONTENT = `
-I am a Computer Science Engineering student at BIT Mesra, currently holding a <span className='italic text-xl text-gradient'>Pupil rank on Codeforces (Max Rating: 1284)</span>. 
+I am a Computer Science Engineering student at BIT Mesra, currently holding a <span className='italic text-xl text-gradient'>Specialist rank on Codeforces (Max Rating: 1410)</span>. 
 
-In addition to competitive programming, I excel in full-stack web development, specializing in  <span className='italic text-bold text-gradient'> Next.js, React.js, and databases like MongoDB and MySQL</span>. 
+In addition to competitive programming,I am an open source contributor and I also excel in full-stack web development, specializing in  <span className='italic text-bold text-gradient'> Next.js, React.js, and databases like MongoDB and MySQL</span>. 
 I have developed scalable solutions, improving user experiences and system performance. 
 <br><br>
 `;
@@ -63,7 +63,7 @@ export const PROJECTS = [
       "MongoDB",
     ],
     demoLink: "https://minato98-3f97e3e22de1.herokuapp.com/",
-    githubLink: "https://github.com/SonGoku1972/NoName",
+    githubLink: "https://github.com/DarkDemon1854/NoName",
   },
   {
     title: "Stream",
@@ -81,7 +81,7 @@ export const PROJECTS = [
       "MongoDB",
     ],
     demoLink: "https://convinced-manya-nopemkmlm-e3a7583c.koyeb.app/",
-    githubLink: "https://github.com/SonGoku1972/Stream"
+    githubLink: "https://github.com/DarkDemon1854/Stream"
   },
 ];
 
