@@ -71,7 +71,7 @@ export const PROJECTS = [
     image: project2,
     description: 
       // "Developed a dynamic web-based movie streaming platform that fetches films from a Telegram channel, leveraging The Movie Database (TMDb) API for enriched metadata, including posters, thumbnails, and detailed movie information. Enabled seamless online streaming alongside playback options via MX Player and VLC, with a direct file download feature. Designed an intuitive user interface with smooth navigation, optimized video performance, and real-time content updates.",
-      "Developed a dynamic web-based movie streaming platform that fetches films from a Telegram channel, leveraging The Movie Database (TMDb) API for enriched metadata, including posters, thumbnails, and detailed movie information. Enabled seamless online streaming alongside playback options via MX Player and VLC, with a direct file download feature. Designed an intuitive user interface with smooth navigation, optimized video performance, and real-time content updates.\n\n🔐 **Login Credentials:**\n**Username:** `Raj`  |  **Password:** `Raj`",
+      "Developed a dynamic web-based movie streaming platform that fetches films from a Telegram channel, leveraging The Movie Database (TMDb) API for enriched metadata such as posters, thumbnails, and detailed movie information. The platform supports seamless online streaming, playback via MX Player and VLC, and direct file downloads. Designed with an intuitive interface, smooth navigation, optimized video performance, and real-time content updates.\n\nLogin to explore:\n• Username: `Raj`\n• Password: `Raj`",
     technologies: [
       "Python",
       "HTML",
