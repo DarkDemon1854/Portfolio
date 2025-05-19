@@ -63,7 +63,7 @@ export const PROJECTS = [
       "Dockerfile",
       "MongoDB",
     ],
-    demoLink: "https://minato98-3f97e3e22de1.herokuapp.com/",
+    demoLink: "https://minato98-36eba78af11e.herokuapp.com",
     githubLink: "https://github.com/DarkDemon1854/NoName",
   },
   {
