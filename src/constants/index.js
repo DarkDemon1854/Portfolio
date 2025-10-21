@@ -70,7 +70,7 @@ export const PROJECTS = [
     title: "Stream",
     image: project2,
     description: 
-      "Developed a dynamic web-based movie streaming platform that fetches films from a Telegram channel, leveraging The Movie Database (TMDb) API for enriched metadata including posters, thumbnails, and detailed movie info. Integrated Google Firebase for real-time database syncing, user authentication, and scalable backend services. Implemented monetized short links using popular URL shortener APIs (e.g., ShrinkMe, Linkvertise) with both backend and frontend support to generate revenue. The platform enables seamless online streaming, playback via MX Player and VLC, and direct file downloads. Designed with an intuitive UI, smooth navigation, optimized video performance, and real-time content updates.",
+      "Developed a dynamic web-based movie streaming platform that fetches films from a Telegram channel, leveraging The Movie Database (TMDb) API for enriched metadata including posters, thumbnails, and detailed movie info. Integrated Google Firebase for real-time database syncing, user authentication, and scalable backend services. Implemented monetized short links using popular URL shortener APIs (e.g., ShrinkMe, Linkvertise) with both backend and frontend support to generate revenue. The platform enables seamless online streaming, playback via MX Player, Stremio and VLC, and direct file downloads. Designed with an intuitive UI, smooth navigation, optimized video performance, and real-time content updates.",
     technologies: [
       "Python",
       "HTML",
@@ -80,6 +80,7 @@ export const PROJECTS = [
       "Dockerfile",
       "LocalStorage",
       "MongoDB",
+      "Stremio",
     ],
     demoLink: "https://songoku.vercel.app/",
     githubLink: {
