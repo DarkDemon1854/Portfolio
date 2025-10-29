@@ -65,12 +65,14 @@ export const PROJECTS = [
       "Telegram API(Pyrogram)",
       "Flask",
       "RSS Feeds",
+      "OCR",
+      "Text To Speech",
     ],
     demoLink: "https://noname-stream.onrender.com/",
     githubLink: "https://github.com/DarkDemon1854/WZML-X",
   },
   {
-    title: "Stream Live Link",
+    title: "Stream",
     image: project2,
     description:
       "Engineered a high-performance, full-stack movie streaming platform that indexes and streams content directly from Telegram channels, combining real-time database syncing with a visually immersive and responsive UI. The platform leverages The Movie Database (TMDB) API to dynamically fetch and display detailed metadata including movie posters, cast information, genres, and release details — creating a cinematic browsing experience. A robust backend, built with Node.js and MongoDB, integrates Telegram APIs to fetch and index media files, while the frontend, powered by React and Tailwind CSS, provides intuitive search, filtering, and category-based navigation. Google Firebase powers user authentication, session handling, and real-time updates, ensuring a secure and seamless viewing experience. To support monetization, the system incorporates URL shortener APIs such as ShrinkMe and Linkvertise to generate revenue through user access points, integrated cleanly into both frontend and backend flows. Users can stream directly from their browsers or external players like VLC, MX Player, and Stremio, or choose to download the files for offline access. The design emphasizes performance and scalability, with optimized loading pipelines, lazy thumbnail rendering, and cached metadata retrievals to deliver smooth playback even under heavy traffic. The platform is fully containerized using Docker and deployable on Vercel, ensuring high uptime and portability across environments. Overall, Stream Live Link demonstrates a complete ecosystem of content discovery, metadata enrichment, streaming flexibility, and monetization in a single, modern full-stack solution.",
@@ -88,8 +90,8 @@ export const PROJECTS = [
     ],
     demoLink: "https://songoku.vercel.app/",
     githubLink: {
-      frontend: "https://github.com/DarkDemon1854/Frontend",
-      backend: "https://github.com/DarkDemon1854/Stream-Backend",
+      frontend: "https://github.com/DarkDemon1854/Frontend-Fyvio",
+      backend: "https://github.com/DarkDemon1854/Backend-Fyvio",
     },
   },
 ];
