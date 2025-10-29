@@ -50,7 +50,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "NoName",
+    title: "Mirror Leech Telegram Bot",
     image: project1,
     description:
       "Developed a powerful Telegram-based mirror and leech bot with advanced file management capabilities and MongoDB integration for user data storage. Supports downloading from torrents, direct links, and streaming sites using ARIA2C, YT-DLP, and various scraping techniques. Integrated Google Drive, MEGA, and Rclone for seamless cloud storage management. Features a hash and direct download link generator, RSS feed support, customizable user and bot settings, and a suite of miscellaneous audio tools. Implements bypass mechanisms for protected links and supports multiple URL shortener services. Designed for flexible deployment on Heroku, VPS, and Docker, leveraging Python and Flask for a scalable and high-performance backend.",
