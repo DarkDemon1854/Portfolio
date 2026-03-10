@@ -31,7 +31,7 @@ const Hero = () => {
   ];
 
   return (
-    <div className="border-b border-neutral-900 pb-4 lg:mb-35 -mt-14">
+    <div className="pb-4 lg:mb-35 -mt-14">
       <Spotlight
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="purple"
@@ -68,7 +68,7 @@ const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-            {parse(HERO_CONTENT)}
+              {parse(HERO_CONTENT)}
               {/* {HERO_CONTENT} */}
             </motion.p>
 

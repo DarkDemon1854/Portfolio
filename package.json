@@ -17,6 +17,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^11.3.28",
     "html-react-parser": "^5.2.2",
+    "ogl": "^1.0.11",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-element-to-jsx-string": "^15.0.0",
