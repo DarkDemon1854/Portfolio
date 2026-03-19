@@ -9,7 +9,7 @@ import  './index.css';
 
 export const HERO_CONTENT = `
 I am a Computer Science Engineering student at BIT Mesra, currently holding a <span className='italic text-xl text-gradient'>Specialist rank on Codeforces (Max Rating: 1476)</span> and <span className='italic text-xl text-gradient'>4 star at Codechef (Max Rating: 1863)</span>.
-My competitive programming journey includes solving 100+ problems on Codeforces and achieving notable ranks like <span className='italic text-xl text-gradient'><a href='https://codeforces.com/contest/2103/standings/participant/208764572#p208764572'>Global rank 1484 in codeforces Div 2 Round 1019</a></span>.<br><br> 
+My competitive programming journey includes solving 300+ problems on Codeforces, Leetcode, Gfg, Codechef and achieving notable ranks like <span className='italic text-xl text-gradient'><a href='https://codeforces.com/contest/2103/standings/participant/208764572#p208764572'>Global rank 1484 in codeforces Div 2 Round 1019</a></span>.<br><br> 
 
 In addition to competitive programming,I am an open source contributor and I also excel in full-stack web development, specializing in  <span className='italic text-bold text-gradient'> Next.js, React.js, and databases like MongoDB and MySQL</span>. 
 I have developed scalable solutions, improving user experiences and system performance.
@@ -22,7 +22,7 @@ export const EXPERIENCES = [
     image: bitmesra,
     role: "BTech - Computer Science & Engineering",
     company: "Birla Institute of Technology, Mesra",
-    description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Birla Institute of Technology, Mesra, with a current GPA of 8.16 . Currently in the second year, I am honing my skills in software development`,
+    description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Birla Institute of Technology, Mesra, with a current GPA of 8.4 . Currently in the second year, I am honing my skills in software development`,
     technologies: [
       "Data Structures & Algorithms",
       "DBMS",
