@@ -12,9 +12,9 @@ const SOCIAL = [
     accent: "#0a66c2",
   },
   {
-    href: "https://codolio.com/profile/SonGoku",
-    icon: <FaCodolio />,
-    label: "Codolio",
+    href: "https://www.linkedin.com/in/SonGoku/",
+    icon: <FaLinkedin />,
+    label: "LinkedIn",
     accent: "#0a66c2",
   },
   {
