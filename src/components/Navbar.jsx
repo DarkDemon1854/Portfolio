@@ -1,19 +1,24 @@
 import logo from "../assets/logo.jpg";
 import React from 'react';
-import { FaLinkedin, FaPhoneAlt } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaPhoneAlt, FaGithub, FaGlobe } from "react-icons/fa";
 import { SiGmail, SiLeetcode, SiCodeforces, SiCodechef } from "react-icons/si";
 import { RippleButton } from "./ui/ripple-button.jsx";
 
 const SOCIAL = [
   {
-    href: "https://www.linkedin.com/in/raj-shree-a772822a7/",
-    icon: <FaLinkedin />,
-    label: "LinkedIn",
+    href: "https://codolio.com/profile/SonGoku",
+    icon: <FaGlobe />,
+    label: "Codolio",
     accent: "#0a66c2",
   },
   {
-    href: "https://github.com/SonGoku1972",
+    href: "https://codolio.com/profile/SonGoku",
+    icon: <FaCodolio />,
+    label: "Codolio",
+    accent: "#0a66c2",
+  },
+  {
+    href: "https://github.com/DarkDemon1854",
     icon: <FaGithub />,
     label: "GitHub",
     accent: "#f0f6fc",
