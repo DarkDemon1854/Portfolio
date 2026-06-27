@@ -89,11 +89,8 @@ export const PROJECTS = [
       "Node.js",
       "Vercel",
     ],
-    demoLink: "https://songoku.vercel.app/",
-    githubLink: {
-      frontend: "https://github.com/DarkDemon1854/Frontend-Fyvio",
-      backend: "https://github.com/DarkDemon1854/Backend-Fyvio",
-    },
+    demoLink: "https://songoku.dpdns.org/",
+    githubLink: "https://github.com/DarkDemon1854/Stream",
   },
 ];
 
